@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+}
+header img{
+    width: 10%;
+    padding: 15px;
+}
+header div{
+    background-color: #fdfbf1;
+    color: #107777;
+    border-top: 1px solid #ffe4a1;
+    height: 40px;
+}
+header h1{
+    font-size: 0.7em;
+}
+#TitleGrassetto{
+    font-size: 1.4em;
+}
+main{
+    width: 50%;
+    margin: auto;
+}
+#TitleMainPhoto{
+    margin-top: 5%;
+}
+#TitleMainPhoto h1{
+    text-align: center;
+    font-size: 2.9em;
+}
+#TitleMainPhoto img{
+    width: 100%;
+}
+#TitleMainPhoto p:last-child{
+    text-align: center;
+    text-decoration: none;
+}
+#TitleMainPhoto p:last-child a{
+    text-align: center;
+    text-decoration: none;
+}
+.groupIngredients hr{
+    background-color: #d7f7f6;
+    height: 2px;
+    border: none;
+}
+.groupIngredients li{
+    padding: 5px;
+}
+.groupIngredients ol li span{
+    font-weight: 800;
+}
+footer{
+    width: 50%;
+    margin: auto;
+}
+.feauteredInfo{
+    width: 100%;
+    border-left: 1px solid orange;
+}

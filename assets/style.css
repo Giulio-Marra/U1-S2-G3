@@ -61,4 +61,10 @@ footer{
 .feauteredInfo{
     width: 100%;
     border-left: 1px solid orange;
+    padding: 0 5px;
+} 
+.feauteredInfo h3{
+    margin: 0;
+    padding: 0;
+    color: #b03900;
 }
